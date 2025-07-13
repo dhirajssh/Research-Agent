@@ -21,7 +21,7 @@ A fully automated LLM-powered workflow that summarizes the latest Agentic AI new
 
 ## 🧩 Workflow
 
-```mermaid
+```
 graph TD
     A[Input Search Results] --> B[Scrape + Convert to Markdown]
     B --> C[Summariser Agent (LLM)]
